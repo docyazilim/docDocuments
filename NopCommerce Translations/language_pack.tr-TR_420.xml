@@ -4684,7 +4684,7 @@
     <Value>Sistem adı</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages">
-    <Value>Languages</Value>
+    <Value>Diller</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Added">
     <Value>Yeni dil başarıyla eklendi.</Value>
@@ -4693,7 +4693,7 @@
     <Value>Yeni bir dil ekle</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.BackToList">
-    <Value>dil listesine geri dön</Value>
+    <Value>Dil Listesine Geri Dön</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Deleted">
     <Value>Dil başarıyla silindi.</Value>
