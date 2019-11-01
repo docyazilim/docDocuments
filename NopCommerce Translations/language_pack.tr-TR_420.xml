@@ -5998,19 +5998,19 @@
     <Value>Lockout time (login failures)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FailedPasswordLockoutMinutes.Hint">
-    <Value>Enter number of minutes to lockout users (for login failures).</Value>
+    <Value>Kullanıcıları kilitlemek için dakika girin (giriş başarısızlıkları için).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FaxEnabled">
-    <Value>'Fax number' enabled</Value>
+    <Value>'Faks numarası' etkin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FaxEnabled.Hint">
-    <Value>Set if 'Fax number' is enabled.</Value>
+    <Value>'Faks numarası' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FaxRequired">
-    <Value>'Fax number' required</Value>
+    <Value>'Faks numarası' gerekli</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FaxRequired.Hint">
-    <Value>Check if 'Fax number' is required.</Value>
+    <Value>'Faks numarası' gerekli olup olmadığını kontrol edin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.GenderEnabled">
     <Value>'Cinsiyet' etkin</Value>
@@ -6037,10 +6037,10 @@
     <Value>Bülten aboneliği kutusunu gizlemek isteyip istemediğinizi kontrol edin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterBlockAllowToUnsubscribe">
-    <Value>Newsletter box. Allow to unsubscribe</Value>
+    <Value>Bülten kutusu. Aboneliği iptal etmeye izin ver</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterBlockAllowToUnsubscribe.Hint">
-    <Value>Check if you want to allow customers to display "unsubscribe" option in the newsletter block.</Value>
+    <Value>Müşterilerin bülten bloğunda "aboneliği iptal et" seçeneğini göstermesine izin vermek isteyip istemediğinizi kontrol edin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterEnabled">
     <Value>'Bülten' etkin</Value>
@@ -6061,64 +6061,64 @@
     <Value>Yeni bir müşteri kaydedildiğinde mağaza sahibine haber verin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordLifetime">
-    <Value>Password lifetime</Value>
+    <Value>Parola geçerlilik süresi</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordLifetime.Hint">
-    <Value>Specify number of days for password expiration. Don't forget to check "EnablePasswordLifetime" property on customer role edit page for those roles, who will have to change passwords.</Value>
+    <Value>Parola son kullanma tarihi için gün sayısını belirtin. Şifreleri değiştirmek zorunda kalacak roller için müşteri rolü düzenleme sayfasındaki "Parola Geçerlilik Süresi Etkinleştir" özelliğini kontrol etmeyi unutmayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordMinLength">
-    <Value>Password minimum length</Value>
+    <Value>Minimum parola uzunluğu</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordMinLength.Hint">
-    <Value>Specify password minimum length.</Value>
+    <Value>Minimum parola uzunluğunu belirtin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireDigit">
-    <Value>Password must have at least one digit</Value>
+    <Value>Parola en az bir rakam içermelidir</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireDigit.Hint">
-    <Value>Specify that passwords must have at least one digit.</Value>
+    <Value>Parolada en az bir rakam olması gerektiğini belirtin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireLowercase">
-    <Value>Password must have at least one lowercase</Value>
+    <Value>Parola en az bir küçük harf içermelidir</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireLowercase.Hint">
-    <Value>Specify that password must have at least one lowercase.</Value>
+    <Value>Parolada en az bir küçük harf olması gerektiğini belirtin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireNonAlphanumeric">
-    <Value>Password must have at least one non alphanumeric character</Value>
+    <Value>Parola en az bir alfanumerik olmayan karakter içermelidir</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireNonAlphanumeric.Hint">
-    <Value>Specify that password must have at least one non alphanumeric character.</Value>
+    <Value>Şifrenin en az bir alfanumerik olmayan karaktere sahip olması gerektiğini belirtin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireUppercase">
-    <Value>Password must have at least one uppercase</Value>
+    <Value>Parola en az bir büyük harf içermelidir</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRequireUppercase.Hint">
-    <Value>Specify that passwords must have at least one uppercase.</Value>
+    <Value>Parolada en az bir büyük harf olması gerektiğini belirtin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRecoveryLinkDaysValid">
-    <Value>Password recovery link. Days valid</Value>
+    <Value>Parola kurtarma bağlantısı. Geçerli günler</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordRecoveryLinkDaysValid.Hint">
-    <Value>Enter number of days for password recovery link. Set to 0 if it doesn't expire.</Value>
+    <Value>Parola kurtarma bağlantısı için gün sayısını girin. Gün sınırı olmaması için 0 olarak ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PhoneEnabled">
-    <Value>'Phone number' enabled</Value>
+    <Value>'Telefon numarası' etkin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PhoneEnabled.Hint">
-    <Value>Set if 'Phone number' is enabled.</Value>
+    <Value>'Telefon numarası' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PhoneRequired">
-    <Value>'Phone number' required</Value>
+    <Value>'Telefon numarası' gerekli</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PhoneRequired.Hint">
-    <Value>Check if 'Phone number' is required.</Value>
+    <Value>'Telefon numarası' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.RequireRegistrationForDownloadableProducts">
-    <Value>Require registration for downloadable products</Value>
+    <Value>İndirilebilir ürünler için kullanıcı hesabı oluştur</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.RequireRegistrationForDownloadableProducts.Hint">
-    <Value>Require account creation to purchase downloadable products.</Value>
+    <Value>İndirilebilir ürünler satın almak için kullanıcı hesabı oluşturmak gerekir.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.ShowCustomersJoinDate">
     <Value>Müşterilerin katılma tarihlerini göster</Value>
@@ -6133,10 +6133,10 @@
     <Value>Müşterilerin konumlarının gösterilip gösterilmediğini gösteren bir değer.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StateProvinceEnabled">
-    <Value>'State/province' enabled</Value>
+    <Value>'Eyalet/il' etkin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StateProvinceEnabled.Hint">
-    <Value>Set if 'State/province' is enabled.</Value>
+    <Value>'Eyalet/il' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StateProvinceRequired">
     <Value>'Eyalet/il' gerekli</Value>
@@ -6157,34 +6157,34 @@
     <Value>Etkinleştirildiğinde, en son ziyaret edilen sayfa saklanır. Devre dışı bırakıldığında performansı geliştirebilir.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddress2Enabled">
-    <Value>'Street address 2' enabled</Value>
+    <Value>'Adres 2' etkin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddress2Enabled.Hint">
-    <Value>Set if 'Street address 2' is enabled.</Value>
+    <Value>'Adres 2' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddress2Required">
-    <Value>'Street address 2' required</Value>
+    <Value>'Adres 2' gerekli</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddress2Required.Hint">
-    <Value>Check if 'Street address 2' is required.</Value>
+    <Value>'Adres 2' gerekli olup olmadığını kontrol edin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddressEnabled">
-    <Value>'Street address' enabled</Value>
+    <Value>'Adres' etkin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddressEnabled.Hint">
-    <Value>Set if 'Street address' is enabled.</Value>
+    <Value>'Adres' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddressRequired">
-    <Value>'Street address' required</Value>
+    <Value>'Adres' gerekli</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.StreetAddressRequired.Hint">
-    <Value>Check if 'Street address' is required.</Value>
+    <Value>'Adres' gerekli olup olmadığını kontrol edin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UnduplicatedPasswordsNumber">
     <Value>Unduplicated passwords number</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UnduplicatedPasswordsNumber.Hint">
-    <Value>Specify the number of customer passwords that mustn't be the same as the previous one, enter 0 if the customer can use the same password time after time.</Value>
+    <Value>Bir öncekiyle aynı olmaması gereken parola sayısını belirtin, bir önceki parolaları kullanabilmek için 0 girin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UsernamesEnabled">
     <Value>'Kullanıcı adları' etkin</Value>
