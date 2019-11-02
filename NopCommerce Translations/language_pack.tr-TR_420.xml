@@ -6217,16 +6217,16 @@
     <Value>Müşteri kayıt yöntemini belirler.  Standart - ziyaretçilerin kayıt olabileceği ve onay gerektirmediği mod.  E-posta Doğrulama - Kullanıcının etkinleştirilmeden önce kendisine gönderilen doğrulama e-postasına yanıt vermesi gereken mod.  Yönetici Onayı - ziyaretçilerin kaydolabilecekleri ancak yönetici onayı gerektiren mod.  Devre Dışı - Kaydın devre dışı bırakıldığı mod</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.ZipPostalCodeEnabled">
-    <Value>'Zip / postal code' enabled</Value>
+    <Value>'Posta Kodu' etkin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.ZipPostalCodeEnabled.Hint">
-    <Value>Set if 'Zip / postal code' is enabled.</Value>
+    <Value>'Posta Kodu' etkin olup olmadığını ayarlayın.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.ZipPostalCodeRequired">
-    <Value>'Zip / postal code' required</Value>
+    <Value>'Posta Kodu' gerekli</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.ZipPostalCodeRequired.Hint">
-    <Value>Check if 'Zip / postal code' is required.</Value>
+    <Value>'Posta Kodu' gerekli olup olmadığını kontrol edin.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.FaviconAndAppIcons.Uploaded">
     <Value>Favicon and app icons have been uploaded</Value>
